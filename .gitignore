@@ -1,0 +1,7 @@
+bin
+obj
+packages
+.nuget
+*.suo
+RESTTests_RestSharp.csproj.user
+TestResult.xml

@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 
-namespace RESTTests_RestSharp.Tests.Contract
+namespace RESTTests_RestSharp.Tests.Positive
 {
     [TestFixture]
     public class LINQAssertionTests  

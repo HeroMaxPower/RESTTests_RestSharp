@@ -52,11 +52,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Contract\ResponseContainer.cs" />
+    <Compile Include="Contract\ErrorResponseContainer.cs" />
     <Compile Include="Tests\Contract\DataAttributesContractTests .cs" />
     <Compile Include="Tests\Contract\ItemAttributesContractTests .cs" />
     <Compile Include="Tests\Contract\RootLevelAttributesContractTests .cs" />
     <Compile Include="NUnitConsoleRunner.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tests\Negative\ParameterTests.cs" />
     <Compile Include="Tests\Positive\AttributesAssertionTests.cs" />
     <Compile Include="Tests\Positive\LINQAssertionTests.cs" />
   </ItemGroup>
